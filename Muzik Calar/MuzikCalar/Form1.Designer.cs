@@ -59,14 +59,14 @@
             this.btn_duraklat = new System.Windows.Forms.Button();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.ayarlarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.müzikSeçToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.müzikSeçToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.listeyiTemizleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listeyiKaydetToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.müzikSeçToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hakkımdaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.çıkışToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.list_Muzik_Liste = new System.Windows.Forms.ListBox();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.müzikSeçToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
@@ -433,19 +433,19 @@
             this.ayarlarToolStripMenuItem.Size = new System.Drawing.Size(90, 24);
             this.ayarlarToolStripMenuItem.Text = "Ayarlar";
             // 
-            // müzikSeçToolStripMenuItem
+            // müzikSeçToolStripMenuItem1
             // 
-            this.müzikSeçToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("müzikSeçToolStripMenuItem.Image")));
-            this.müzikSeçToolStripMenuItem.Name = "müzikSeçToolStripMenuItem";
-            this.müzikSeçToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.müzikSeçToolStripMenuItem.Text = "Kayıtlı Listeyi Aç";
-            this.müzikSeçToolStripMenuItem.Click += new System.EventHandler(this.müzikSeçToolStripMenuItem_Click);
+            this.müzikSeçToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("müzikSeçToolStripMenuItem1.Image")));
+            this.müzikSeçToolStripMenuItem1.Name = "müzikSeçToolStripMenuItem1";
+            this.müzikSeçToolStripMenuItem1.Size = new System.Drawing.Size(199, 26);
+            this.müzikSeçToolStripMenuItem1.Text = "Müzik Seç";
+            this.müzikSeçToolStripMenuItem1.Click += new System.EventHandler(this.müzikSeçToolStripMenuItem1_Click);
             // 
             // listeyiTemizleToolStripMenuItem
             // 
             this.listeyiTemizleToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("listeyiTemizleToolStripMenuItem.Image")));
             this.listeyiTemizleToolStripMenuItem.Name = "listeyiTemizleToolStripMenuItem";
-            this.listeyiTemizleToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.listeyiTemizleToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
             this.listeyiTemizleToolStripMenuItem.Text = "Listeyi Temizle";
             this.listeyiTemizleToolStripMenuItem.Click += new System.EventHandler(this.listeyiTemizleToolStripMenuItem_Click);
             // 
@@ -453,15 +453,23 @@
             // 
             this.listeyiKaydetToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("listeyiKaydetToolStripMenuItem.Image")));
             this.listeyiKaydetToolStripMenuItem.Name = "listeyiKaydetToolStripMenuItem";
-            this.listeyiKaydetToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.listeyiKaydetToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
             this.listeyiKaydetToolStripMenuItem.Text = "Listeyi Kaydet";
             this.listeyiKaydetToolStripMenuItem.Click += new System.EventHandler(this.listeyiKaydetToolStripMenuItem_Click);
+            // 
+            // müzikSeçToolStripMenuItem
+            // 
+            this.müzikSeçToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("müzikSeçToolStripMenuItem.Image")));
+            this.müzikSeçToolStripMenuItem.Name = "müzikSeçToolStripMenuItem";
+            this.müzikSeçToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
+            this.müzikSeçToolStripMenuItem.Text = "Kayıtlı Listeyi Aç";
+            this.müzikSeçToolStripMenuItem.Click += new System.EventHandler(this.müzikSeçToolStripMenuItem_Click);
             // 
             // hakkımdaToolStripMenuItem
             // 
             this.hakkımdaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("hakkımdaToolStripMenuItem.Image")));
             this.hakkımdaToolStripMenuItem.Name = "hakkımdaToolStripMenuItem";
-            this.hakkımdaToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.hakkımdaToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
             this.hakkımdaToolStripMenuItem.Text = "Hakkımda";
             this.hakkımdaToolStripMenuItem.Click += new System.EventHandler(this.hakkımdaToolStripMenuItem_Click);
             // 
@@ -469,7 +477,7 @@
             // 
             this.çıkışToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("çıkışToolStripMenuItem.Image")));
             this.çıkışToolStripMenuItem.Name = "çıkışToolStripMenuItem";
-            this.çıkışToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.çıkışToolStripMenuItem.Size = new System.Drawing.Size(199, 26);
             this.çıkışToolStripMenuItem.Text = "Çıkış";
             this.çıkışToolStripMenuItem.Click += new System.EventHandler(this.çıkışToolStripMenuItem_Click);
             // 
@@ -493,20 +501,13 @@
             this.timer1.Interval = 500;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // müzikSeçToolStripMenuItem1
-            // 
-            this.müzikSeçToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("müzikSeçToolStripMenuItem1.Image")));
-            this.müzikSeçToolStripMenuItem1.Name = "müzikSeçToolStripMenuItem1";
-            this.müzikSeçToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
-            this.müzikSeçToolStripMenuItem1.Text = "Müzik Seç";
-            this.müzikSeçToolStripMenuItem1.Click += new System.EventHandler(this.müzikSeçToolStripMenuItem1_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1115, 662);
             this.Controls.Add(this.splitContainer1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Müzik Çalar";
             this.Load += new System.EventHandler(this.Form1_Load);
