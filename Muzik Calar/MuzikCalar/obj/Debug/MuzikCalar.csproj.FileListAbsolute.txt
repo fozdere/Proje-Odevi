@@ -1,0 +1,37 @@
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\bin\Debug\MuzikCalar.exe.config
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\bin\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\bin\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\obj\Debug\MuzikCalar.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\obj\Debug\MuzikCalar.Form1.resources
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\obj\Debug\MuzikCalar.Properties.Resources.resources
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\obj\Debug\MuzikCalar.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\obj\Debug\MuzikCalar.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\obj\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\C-Sharp-MP3-Player-mciSendString-master\MuzikCalar\obj\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\bin\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\bin\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\obj\Debug\MuzikCalar.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\obj\Debug\MuzikCalar.Form1.resources
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\obj\Debug\MuzikCalar.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\obj\Debug\MuzikCalar.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\obj\Debug\MuzikCalar.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\obj\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\Proje-Odevi\MuzikOynatici\MuzikCalar\obj\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\bin\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\bin\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.Form1.resources
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\bin\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\bin\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.csprojAssemblyReference.cache
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.Form1.resources
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.Properties.Resources.resources
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.csproj.GenerateResource.cache
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.csproj.CoreCompileInputs.cache
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.exe
+C:\Users\Fatih\Desktop\Yeni klasör\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.pdb
+C:\Users\Fatih\Desktop\Proje-Odevi\Muzik Calar\MuzikCalar\obj\Debug\MuzikCalar.csproj.AssemblyReference.cache
