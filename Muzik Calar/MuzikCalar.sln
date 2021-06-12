@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31402.337
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzikCalar", "MuzikCalar\MuzikCalar.csproj", "{3A23C36B-D254-4A24-8ECC-BE5CE51E9343}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Müzik Çalar", "..\Setup Dosyası\Müzik Çalar\Müzik Çalar.vdproj", "{429C64AA-D31A-4DF7-87BD-303A66C6BF91}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,13 +15,8 @@ Global
 		{3A23C36B-D254-4A24-8ECC-BE5CE51E9343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A23C36B-D254-4A24-8ECC-BE5CE51E9343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A23C36B-D254-4A24-8ECC-BE5CE51E9343}.Release|Any CPU.Build.0 = Release|Any CPU
-		{429C64AA-D31A-4DF7-87BD-303A66C6BF91}.Debug|Any CPU.ActiveCfg = Debug
-		{429C64AA-D31A-4DF7-87BD-303A66C6BF91}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8CE05318-2ABF-453C-A8C5-A05DA5AE044D}
 	EndGlobalSection
 EndGlobal
